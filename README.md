@@ -1,2 +1,12 @@
 # HomeLab
-My Home lab setup - Architecture, Security and Functionality 
+My Home Lab Setup - Architecture, Security and Functionality 
+
+![HomeLab-Logo](images/logo.png)
+
+**Usecase:**
+
+**Architecture:** 
+
+**Security:**
+
+**Useful Links**
