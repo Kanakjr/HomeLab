@@ -1,9 +1,9 @@
-# HomeLab
-My Home Lab Setup - Architecture, Security and Functionality 
+# My Home Lab Setup - Architecture, Security and Functionality 
 
 ![HomeLab-Logo](images/logo.png)
 
 **Usecase:**
+-
 1. BitTorrent client to download and seed torrent files. Tool used: ***Transmission***.
 2. Automatically monitor and download TV shows and movies. Tools used - ***Sonarr, Radarr & Jackett***.
 3. Home Assistant and Automation. Tool used: ***Home Assistant***.
@@ -24,7 +24,7 @@ My Home Lab Setup - Architecture, Security and Functionality
     - [ ] **RAID** configuration and Auto Backups.
  
 **Architecture:** 
-
+-
 ![Architecture](images/Architecture.png)
 
 **Security:**
