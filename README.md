@@ -23,9 +23,9 @@ My Home Lab Setup - Architecture, Security and Functionality
     - [ ] **Kubernetes** cluster and HA.
     - [ ] **RAID** configuration and Auto Backups.
  
-
 **Architecture:** 
 
+---
 ![Architecture](images/Architecture.png)
 
 **Security:**
