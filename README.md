@@ -16,6 +16,7 @@ My Home Lab Setup - Architecture, Security and Functionality
  
 
 **Architecture:** 
+
 ![Architecture](images/Architecture.png)
 
 
