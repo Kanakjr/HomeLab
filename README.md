@@ -14,15 +14,14 @@ My Home Lab Setup - Architecture, Security and Functionality
 8. Continuous File Synchronization. Tool used: **Syncthing** 
 9. Custom Self hosted scripts and services for my side projects.
 10. **Todo**: 
-    - [ ] Monitoring and analytics (ELK or Grafana).
-    - [ ] Personal Dashboards for Servers Frontend, Habit tracker etc.
-    - [ ] Password Manager - BitWarden.
-    - [ ] Code Server - Visual Studio Code in the browser.
-    - [ ] LazyLibrarian - Automatically monitor and download ebooks, audiobooks and magazines.
-    - [ ] Free node based Workflow Automation Tool.
-    - [ ] n8n - Free node based Workflow Automation Tool.
-    - [ ] Kubernetes cluster and HA.
-    - [ ] RAID configuration and Auto Backups.
+    - [ ] Monitoring and Analytics (**ELK** or **Grafana**).
+    - [ ] Personal Dashboards for Servers Frontend, Habit tracker etc. - **Habitica, Organizr, Simple-dash**.
+    - [ ] Password Manager - **BitWarden**.
+    - [ ] **Code Server** - Visual Studio Code in the browser.
+    - [ ] **LazyLibrarian** - Automatically monitor and download ebooks, audiobooks and magazines.
+    - [ ] **n8n** - Node based Workflow Automation Tool.
+    - [ ] **Kubernetes** cluster and HA.
+    - [ ] **RAID** configuration and Auto Backups.
  
 
 **Architecture:** 
