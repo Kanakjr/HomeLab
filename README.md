@@ -1,4 +1,4 @@
-# My Home Lab Setup - Architecture, Security and Functionality 
+# My Home Lab - Architecture, Security and Usecases 
 
 ![HomeLab-Logo](images/logo.png)
 
@@ -28,5 +28,6 @@
 ![Architecture](images/Architecture.png)
 
 **Security:**
-
+-
 **Useful Links:**
+-
